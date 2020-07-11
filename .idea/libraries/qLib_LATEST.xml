@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="qLib-LATEST">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mhq-hcteams-standalone/lib/qLib-LATEST.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
