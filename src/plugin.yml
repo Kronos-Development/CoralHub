@@ -1,0 +1,9 @@
+name: Hub
+version: 1.0-SNAPSHOT
+author: vaperion
+main: me.vaperion.coralhub.Hub
+description: Hub core made for the Coral Network.
+depend:
+  - qLib
+  - Helium
+  - Neon

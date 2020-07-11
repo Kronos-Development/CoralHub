@@ -1,0 +1,31 @@
+scoreboard:
+  title: "&b&lCoral &7⎜ &fHub"
+  normal:
+    - "&8&7&m--------------------"
+    - "&bOnline:"
+    - "&r%players% &b"
+    - "&a"
+
+    - "&bRank:"
+    - "%rank%"
+    - "&b"
+
+    - "&7&owww.coral.gg"
+    - "&9&7&m--------------------"
+  queue:
+    - "&8&7&m--------------------"
+    - "&bOnline:"
+    - "&r%players% &b"
+    - "&a"
+
+    - "&bRank:"
+    - "%rank%"
+    - "&b"
+
+    - "&cQueued for"
+    - "&b%queue%"
+    - "&bPosition: &r#%pos% of %total%"
+    - "&c"
+
+    - "&7&owww.coral.gg"
+    - "&9&7&m--------------------"
